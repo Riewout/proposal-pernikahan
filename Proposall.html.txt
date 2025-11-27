@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Proposal Pernikahan</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #c59fc9;
+      padding: 40px;
+      text-align: center;
+      color: white;
+    }
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h2 {
+      margin-top: 0;
+      color: #8a4b94;
+    }
+    .cta {
+      text-align: center;
+      margin-top: 30px;
+    }
+    .cta a {
+      background: #8a4b94;
+      color: white;
+      padding: 12px 24px;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Proposal Pernikahan</h1>
+    <p>Nama Pasangan</p>
+  </header>
+
+  <section>
+    <h2>Tentang Kami</h2>
+    <p>Isi dengan cerita singkat tentang perjalanan hubungan, momen-momen penting, dan alasan memutuskan untuk menikah.</p>
+  </section>
+
+  <section>
+    <h2>Tujuan Pernikahan</h2>
+    <p>Menjelaskan maksud utama penyusunan proposal, harapan terhadap prosesi pernikahan, serta gambaran umum perencanaan.</p>
+  </section>
+
+  <section>
+    <h2>Rencana Acara</h2>
+    <ul>
+      <li>Lamaran</li>
+      <li>Pemberkahan di Vihara</li>
+      <li>Acara Keluarga</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Rincian Anggaran</h2>
+    <p>Tempatkan tabel atau daftar anggaran sesuai kebutuhan, seperti konsumsi, dekorasi, dokumentasi, dan lain-lain.</p>
+  </section>
+
+  <section>
+    <h2>Ucapan Terima Kasih</h2>
+    <p>Ucapan terima kasih kepada pihak keluarga yang mendukung rencana pernikahan.</p>
+  </section>
+
+  <div class="cta">
+    <a href="#">Hubungi Kami</a>
+  </div>
+</body>
+</html>
